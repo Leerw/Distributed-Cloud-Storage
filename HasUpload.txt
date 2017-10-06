@@ -1,0 +1,13 @@
+已经上传成功的文件：e:\005.jpg uuid:bb7fa2e0-f526-43c6-a30c-a63d5db50ce5
+已经上传成功的文件：e:\005.jpg uuid:e2e862b6-7c47-406c-a5c2-71d8cdd92ae8
+已经上传成功的文件：e:\005.jpg uuid:05fe2298-6c46-4b19-97a9-33597866a132
+已经上传成功的文件：e:\qianshi.mp4 uuid:3558c8b1-ae17-4ba0-9596-1522eaf409b7
+已经上传成功的文件：e:\as.txt uuid:2c2dc084-895a-4488-9bdf-29177d255d25
+已经上传成功的文件：e:\qianshi.mp4 uuid:5fc38ce4-2bed-4f2f-b9b8-a62ea08d05cf
+已经上传成功的文件：e:\qianshi.mp4 uuid:6af4cf26-6322-4a63-8bf0-5021a9573210
+已经上传成功的文件：e:\qianshi.mp4 uuid:2dcf3c68-d30d-409e-bf78-64cb414bd43d
+已经上传成功的文件：e:\qianshi.mp4 uuid:f296100c-eabc-4847-9e5b-82643ed3c67b
+已经上传成功的文件：e:\qianshi.mp4 uuid:4ba9b5d2-d816-4139-8e58-21e29c7ce33f
+已经上传成功的文件：e:\qianshi.mp4 uuid:ff122236-7b39-43ec-8716-3ffc8eeac83d
+已经上传成功的文件：e:\qianshi.mp4 uuid:bc2508dc-94a0-4384-b2a0-7b2e45bd824a
+已经上传成功的文件：e:\qianshi.mp4 uuid:7603007a-6bc7-494d-b731-6d2a0b0bd391

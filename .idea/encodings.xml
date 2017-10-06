@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Client/FileClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Client/FileEncryptAndDecrypt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Client/ZipComp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Client/ZipDeCom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Monitor/Monitor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Server/ClientStrategy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Server/FileServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Server/NodeStrategy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Server/ServeNodesThreadPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StorageNode/SNodeFileServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StorageNode/SNodeServerThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StorageNode/SNodeUDPSenderT.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StorageNode/SNodeUDPServerT.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Util/NodeInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/要求.txt" charset="GBK" />
+  </component>
+</project>
