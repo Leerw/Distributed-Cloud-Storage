@@ -1,1 +1,7 @@
 out
+out/*
+lib
+lib/*
+.idea
+.idea/*
+*.iml
